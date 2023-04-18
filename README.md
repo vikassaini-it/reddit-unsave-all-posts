@@ -32,4 +32,4 @@ const start = async () => {
 
 (async () => {
   await start();
-})();```
+})();
