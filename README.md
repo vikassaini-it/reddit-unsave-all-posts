@@ -3,7 +3,7 @@ Unsave all post reddit
 
 
 
-Open page after logging in: https://www.reddit.com/user/{username}/saved/
+Open page after logging in: https://www.reddit.com/user/**{username}**/saved/
 
 Open console and paste this script:
 
