@@ -11,7 +11,7 @@ Open console and paste this script:
 const delay = (ms) => new Promise((res) => setTimeout(res, ms));
 
 
-const execute = async (arr) => {
+```const execute = async (arr) => {
   for (const el of arr) {
     if (el.innerText === "unsave") {
       el.click();
@@ -32,4 +32,4 @@ const start = async () => {
 
 (async () => {
   await start();
-})();
+})();```
